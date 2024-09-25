@@ -1,0 +1,16 @@
+	 Welcome to Petty :)
+ BILL NUMBER:2697
+ CUSTOMER NAME:oifgfkgknfg
+ PHONE NUMBER:34594577457
+ EMAIL ID:elkrjtjreijtj
+==================================================
+ PRODUCTS			QTY		Price
+==================================================
+ Stick			1		200
+ Scratchers			1		800
+
+==================================================
+ Sub Amount:			Rs.1000.00
+ Text Amount:			Rs.2.00
+ Total Amount:			Rs.1002.00
+==================================================

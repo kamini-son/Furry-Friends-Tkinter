@@ -1,0 +1,18 @@
+		 Welcome to FURRY FRIENDS :)
+
+ Bill Number: 6179
+ Customer Name: minini
+ Phone Number: 34373834
+ E-mail ID: m@gmail.com
+ Pet Name: michu
+==================================================
+ PRODUCTS			QTY		Price
+==================================================
+
+ Stick			1		2000
+ Stick			1		200
+==================================================
+ Sub Amount:			Rs.2200.00
+ Tax Amount:			Rs.20.00
+ Total Amount:			Rs.2220.00
+==================================================

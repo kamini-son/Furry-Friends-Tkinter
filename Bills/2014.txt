@@ -1,0 +1,18 @@
+		 Welcome to FURRY FRIENDS :)
+
+ Bill Number: 2014
+ Customer Name: mahin
+ Phone Number: 737525721
+ E-mail ID: m@gmail.com
+ Pet Name: anik
+==================================================
+ PRODUCTS			QTY		Price
+==================================================
+
+ Chewy Food			2		5000
+ Chewy Food			2		2400
+==================================================
+ Sub Amount:			Rs.7400.00
+ Tax Amount:			Rs.62.00
+ Total Amount:			Rs.7462.00
+==================================================

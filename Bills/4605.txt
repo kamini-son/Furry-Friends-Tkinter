@@ -1,0 +1,17 @@
+		 Welcome to FURRY FRIENDS :)
+
+ Bill Number:4605
+ Customer Name:heena
+ Phone Number:898989898
+ E-mail ID:heena@gmail.com
+ Pet Name:micho
+==================================================
+ PRODUCTS			QTY		Price
+==================================================
+==================================================
+
+==================================================
+ Sub Amount:			Rs.900.00
+ Text Amount:			Rs.6.00
+ Total Amount:			Rs.906.00
+==================================================
